@@ -1,0 +1,10 @@
+diff --git a/gmailfs.py b/gmailfs.py
+index 39c8b64..0da0f5e 100755
+--- a/gmailfs.py
++++ b/gmailfs.py
+@@ -1,4 +1,4 @@
+-#!/usr/bin/python
++#!/usr/bin/env python2
+ #@+leo-ver=4
+ #@+node:@file gmailfs.py
+ #@@first
